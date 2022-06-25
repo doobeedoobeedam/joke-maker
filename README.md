@@ -1,2 +1,2 @@
 # joke-maker
-simple project built with API, JS &amp; CSS
+I got the joke api from <a href="https://icanhazdadjoke.com/">icanhazdadjoke.com</a>, no authentication is required to use it 🙂
